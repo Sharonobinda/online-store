@@ -1,7 +1,9 @@
 # Online Store App
+
 Welcome to Amazon online store
 
-By Shadrack Ngeno, Sharon Obinda, Regina Ngunga, Ezekiel Nyamasege
+By **Shadrack Ngeno**, **Sharon Obinda**, **Regina Ngunga**, **Ezekiel Nyamasege**
+
 ## Description
 Amazon Online Store aims to provide a convenient and user-friendly shopping experience for customers, while also offering efficient product management tools for administrators.
 
@@ -27,13 +29,13 @@ Amazon Online Store aims to provide a convenient and user-friendly shopping expe
 ## Setup/Installation requirements
 *To use this repo on your machine follow the steps below
 
-Open a terminal/command line interface on your computer
+- Open a terminal/command line interface on your computer
 
-Clone the repo by using the following:
+- Clone the repo by using the following:
 
-git clone:https://github.com/shadrack-star/online-store
+git clone:https://github.com/Sharonobinda/online-store
 
-Change directory to the repo folder;
+- Change directory to the repo folder;
 
 cd online-store
 
@@ -67,6 +69,7 @@ You can perform the following operations either by using thunderclient or postma
 - fetch current user
 - add products
 - delete user
+
 ## Known Bugs
 The application works perfectly well, no bugs.
 
@@ -92,5 +95,6 @@ email:: regina.ngunga@student.moringaschool.com phone::+254790742842
 
 email:: realnyamasege@gmail.com phone::+254724227698
 
-License
+# License
+
 *Licenced under the MIT License Copyright (c) 2024
