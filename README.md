@@ -5,6 +5,7 @@ Welcome to Amazon online store
 By **Shadrack Ngeno**, **Sharon Obinda**, **Regina Ngunga**, **Ezekiel Nyamasege**
 
 ## Description
+
 Amazon Online Store aims to provide a convenient and user-friendly shopping experience for customers, while also offering efficient product management tools for administrators.
 
 ## Tools used
@@ -41,15 +42,15 @@ cd online-store
 
 To Open the repo in Visual Studio Code: code .
 
-Use the following steps to run the application;
+** Use the following steps to run the application;
 
-To run the frontend cd to frontend directory, then run this command `npm run dev`
+- first `npm install`, `then npm shell`
+  
+- To run the frontend cd to the frontend directory, then run this command `npm run dev`
 
-To run the backend cd to backend directory, then run this command `flask run`
+- To run the backend cd to backend directory, then run this command `flask run`
 
-Then follow the instructions below for live server to work well with json-server​
-
-Copy the local link to your browser, This will run your React app on port 5173.
+- Copy the local link to your browser, This will run your React app on port 5173.
 
 ## Core Deliverables
 
@@ -64,7 +65,6 @@ As a user, I should be able to;
 
 You can perform the following operations either by using thunderclient or postman to make request
 
- 
 - delete product by id
 - fetch current user
 - add products
@@ -86,7 +86,8 @@ REGINA NGUNGA
 
 EZEKIEL NYAMASEGE
 
-Support and contact details
+## Support and contact details
+
 email:: obindasharon6@gmail.com phone:: +254769600939
 
 email:: shudkipz@gmail.com phone:: +254713491757
